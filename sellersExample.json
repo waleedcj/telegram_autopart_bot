@@ -1,0 +1,22 @@
+[
+    {
+        "id": "seller1",
+        "name": "Seller One",
+        "brands": ["toyota", "honda", "nissan"],
+        "contact": {
+            "telegram_id": "seller_usedid",
+            "phone": "seller_phone",
+            "email": "seller1@example.com"
+        }
+    },
+    {
+        "id": "seller2",
+        "name": "Seller Two",
+        "brands": ["toyota", "bmw"],
+        "contact": {
+            "telegram_id": "seller_usedid",
+            "phone": "seller_phone",
+            "email": "seller2@example.com"
+        }
+    }
+]
